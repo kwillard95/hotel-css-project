@@ -12,4 +12,22 @@
   border-bottom: #444 dotted 1px;
 }
 
-/* Home  */
+/* Home Info */
+
+/* #home-info {
+  height: 550px;
+} */
+
+#home-info .info-img {
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+.box {
+  float: none;
+  width: 100%;
+}
